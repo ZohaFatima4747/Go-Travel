@@ -351,9 +351,10 @@ ul.menu {
 
 .about-text {
   flex: 1;
-  /*width: 100px;*/
+  width: 100px;
   display: flex;
   flex-flow: column wrap;
+  margin-left:30px;
 }
 
 .about-text small,
